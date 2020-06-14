@@ -612,5 +612,17 @@
 // var pot1 = pot.shift();
 // console.log(pot1);
 
-var pot = ["orange","red","yellow"];
-console.log(pot.splice(1));
+// var pot = ["orange","red","yellow"];
+// console.log(pot.splice(1));
+
+var num = [20,70,30,50,40];
+console.log(num.sort());
+
+var nums = [120,130,160,200,203];
+console.log(nums.sort());
+
+var score = "Scores of Students: ";
+var order = "Ordered Scores of Students: ";
+
+document.write(score + nums + "<br/>");
+document.write(order + nums + "<br/>");
