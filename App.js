@@ -440,18 +440,70 @@
 //         alert("Dont Weather show");
 // }
 
-var val1 = prompt("Enter Your First Value");
-var val2 = prompt("Enter Your Second value");
-var sign = prompt("Enter Your Sign Opertor");
+// var val1 = prompt("Enter Your First Value");
+// var val2 = prompt("Enter Your Second value");
+// var sign = prompt("Enter Your Sign Opertor");
 
-if(sign === "+"){
-    alert(val1+val2);
-}else if(sign === "-"){
-    alert(val1-val2);
-}else if(sign === "*"){
-    alert(val1*val2);
-}else if(sign === "/"){
-    alert(val1/val2);
-}else if(sign === "%"){
-    alert(val1%val2);
-}
+// console.log(val1+sign+val2);
+// if(sign === "+"){
+//     alert(val1+val2);
+// }else if(sign === "-"){
+//     alert(val1-val2);
+// }else if(sign === "*"){
+//     alert(val1*val2);
+// }else if(sign === "/"){
+//     alert(val1/val2);
+// }else if(sign === "%"){
+//     alert(val1%val2);
+// }
+
+////////////////////////12 to 13/////////////////////////////////
+
+// var a = "A";
+// console.log(a.charCodeAt());
+// var z = "Z";
+// console.log(z.charCodeAt());
+// var A = "a";
+// console.log(A.charCodeAt());
+// var Zt = "z";
+// console.log(Zt.charCodeAt());
+
+// var num1 = prompt("Input The first Integar", "0");
+// var num2 = prompt("Input The Second Integar", "0");
+
+                                                 
+// if(parseInt(num1, 10) > parseInt(num2, 10)) 
+//   { 
+//   console.log("The larger of "+ num1+ " and "+ num2+ " is "+ num1+ ".");
+//   }   
+// else
+//   if(parseInt(num2, 10) > parseInt(num1, 10)) 
+//   {
+//   console.log("The larger of "+ num1+" and "+ num2+ " is "+ num2+ ".");
+//   }                  
+// else
+//   {
+//    console.log("The values "+ num1+ " and "+num2+ " are equal.");
+//   }
+
+// const positive = 5;
+// const negative = -5;
+// const zero = 0;
+
+// console.log(Math.sign(positive)); // 1
+// console.log(Math.sign(negative)); // -1
+// console.log(Math.sign(zero)); // 0
+
+
+
+// function vowelChecker (char) {
+  
+//     if (char === 'a'||'e'||'i'||'o'||'u') {
+//         return "The character is a Vowel";
+//     }
+//     else {
+//     return "The character is a Consonant";
+//     }
+// }
+  
+// console.log (vowelChecker ("e"));
