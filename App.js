@@ -495,7 +495,6 @@
 // console.log(Math.sign(zero)); // 0
 
 
-
 // function vowelChecker (char) {
   
 //     if (char === 'a'||'e'||'i'||'o'||'u') {
@@ -507,3 +506,37 @@
 // }
   
 // console.log (vowelChecker ("e"));
+
+// var check = prompt("Enter Your Password");
+// var check1 = prompt("Check Your Password are same or not");
+// var check2 = prompt("Incorrect Password");
+// if(check === null){
+//     alert("Please enter your password");
+// }else if(check1 === "linux123"){
+//     alert("Correct! The password youentered matches the original password")
+// }else if(check2 === "world123"){
+//     alert("Incorrect Password Otherwise.");
+// }else("Error Password are not found");
+
+
+// var greeting = prompt("Check your evening and morning");
+// var greeting;
+// var hour = 13;
+// if (hour < 18) {
+// greeting = "Good day";
+// alert(greeting);
+// }else
+// greeting = "Good evening";
+// alert(greeting);
+
+// var times = prompt("Timing Checking");
+// var time = 2200;
+// if(time >= 0000 && time < 1200){
+//     alert("Good Morning!");
+// }else if(time >= 1200 && time < 1700){
+//     alert("Good Afternoon!");
+// }else if(time >= 1700 && time < 2100){
+//     alert("Good Evening");
+// }else if(time >= 2100 && time < 2359){
+//     alert("Good Night");
+// }
