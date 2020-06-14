@@ -608,6 +608,9 @@
 // var two = ["white","blue"];
 // console.log(two);
 
-var pot = ["orange","red","orange","yellow"];
-var pot1 = pot.shift();
-console.log(pot1);
+// var pot = ["orange","red","orange","yellow"];
+// var pot1 = pot.shift();
+// console.log(pot1);
+
+var pot = ["orange","red","yellow"];
+console.log(pot.splice(1));
