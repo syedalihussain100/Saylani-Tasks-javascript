@@ -540,3 +540,60 @@
 // }else if(time >= 2100 && time < 2359){
 //     alert("Good Night");
 // }
+
+/////////////////////14  To 16 pdf//////////////////////////////////
+
+// var objectA = {}
+// console.log(objectA);
+
+// var objectB = new Object()
+// console.log(objectB);
+
+// var cars = ["demo","dubai","world","pakistan","linux"];
+// console.log(cars);
+
+// var num = [1,2,3,4,5,6,7,8,9,10];
+// console.log(num);
+
+// var bolean = [true,false];
+// console.log(bolean);
+
+// var mixedarray = ["mixedarray",true,29];
+// console.log(mixedarray);
+
+
+// document.write("<h1> Qualifications </h1>");
+// var declare = ["SSC","HSC","BCS","BS","BCOM","MS","M","Phil",'PhD'];
+// console.log(declare);
+// document.write("<ol>" + "<li>" + "SSC" + "</li>" + "</ol>");
+// document.write("<ol>" + "<li>" + "HSC" + "</li>" + "</ol>");
+// document.write("<ol>" + "<li>" + "BCS" + "</li>" + "</ol>");
+// document.write("<ol>" + "<li>" + "BS" + "</li>" + "</ol>");
+// document.write("<ol>" + "<li>" + "BCOM" + "</li>" + "</ol>");
+// document.write("<ol>" + "<li>" + "MS" + "</li>" + "</ol>");
+// document.write("<ol>" + "<li>" + "M" + "</li>" + "</ol>");
+// document.write("<ol>" + "<li>" + "Phil" + "</li>" + "</ol>");
+// document.write("<ol>" + "<li>" + "PhD" + "</li>" + "</ol>");
+
+// var studentarray = ["Michael","Jhon","Tony"];
+// var scorearray = [230,230,480];
+
+// console.log(studentarray);
+// console.log(scorearray);
+
+// var name = "Michael";
+// var name1 = "Jhon";
+// var nam2 = "Tony";
+
+// var score = 230;
+// var score1 = 230;
+// var score2 = 480;
+
+// var Percentage = 500 % 230;
+// console.log(Percentage);
+// var Percentage2 = 500 % 480;
+// console.log(Percentage);
+
+// document.write("Score of " + name + " is " + score + " Percentage: " + Percentage + "%" + "</br>");
+// document.write("Score of " + name1 + " is " + score1 + "Percentage: " + Percentage + "%" + "</br>");
+// document.write("Score of " + nam2 + " is " + score2 + "Percentage: " + Percentage2 + "%" + "</br>");
