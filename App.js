@@ -404,8 +404,20 @@
 //     alert("Close enough to the correct answer");
 // }
 
-var calculator = prompt("Calculator number")
-var divide = 3 / 3;
-if (divide) {
-    alert(divide);
-} else(error);
+// var calculator = prompt("Calculator number")
+// var divide = 3 / 3;
+// if (divide) {
+//     alert(divide);
+// }
+
+// var check = prompt("Enter Your Even and Odd Number");
+
+// switch (check) {
+//     case "2":
+//         alert("This Number Is Even");
+//         break;
+//     case "3":
+//        alert("This Number Is Odd");
+//     default:
+//         break;
+// }
