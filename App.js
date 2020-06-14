@@ -598,5 +598,16 @@
 // document.write("Score of " + name1 + " is " + score1 + "Percentage: " + Percentage + "%" + "</br>");
 // document.write("Score of " + nam2 + " is " + score2 + "Percentage: " + Percentage2 + "%" + "</br>");
 
-var colors = ["red","blue","green","Purple","Orange"];
-console.log(colors);
+// var colors = ["red","blue","green","Purple","Orange"];
+// console.log(colors);
+
+// var colorarray = ["pink","blue",'green',"orange"];
+// var find = colorarray.slice(-4);
+// console.log(find);
+
+// var two = ["white","blue"];
+// console.log(two);
+
+var pot = ["orange","red","orange","yellow"];
+var pot1 = pot.shift();
+console.log(pot1);
