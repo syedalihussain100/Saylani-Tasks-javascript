@@ -597,3 +597,6 @@
 // document.write("Score of " + name + " is " + score + " Percentage: " + Percentage + "%" + "</br>");
 // document.write("Score of " + name1 + " is " + score1 + "Percentage: " + Percentage + "%" + "</br>");
 // document.write("Score of " + nam2 + " is " + score2 + "Percentage: " + Percentage2 + "%" + "</br>");
+
+var colors = ["red","blue","green","Purple","Orange"];
+console.log(colors);
