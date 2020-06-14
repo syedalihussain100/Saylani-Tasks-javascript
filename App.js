@@ -421,3 +421,37 @@
 //     default:
 //         break;
 // }
+
+// var weather = prompt("Check Your Weather");
+// switch (weather) {
+//     case "T > 40":
+//         alert("It is too hot outside.");
+//         break;
+//      case "T > 30":
+//          alert("The Weather today is Normal.");
+//          break;
+//          case "T > 20":
+//          alert("Today’s Weather is cool.");
+//          break;
+//          case "T > 10":
+//              alert("OMG! Today’s weather is so Cool.");
+
+//     default:
+//         alert("Dont Weather show");
+// }
+
+var val1 = prompt("Enter Your First Value");
+var val2 = prompt("Enter Your Second value");
+var sign = prompt("Enter Your Sign Opertor");
+
+if(sign === "+"){
+    alert(val1+val2);
+}else if(sign === "-"){
+    alert(val1-val2);
+}else if(sign === "*"){
+    alert(val1*val2);
+}else if(sign === "/"){
+    alert(val1/val2);
+}else if(sign === "%"){
+    alert(val1%val2);
+}
