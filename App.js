@@ -632,3 +632,45 @@
 // document.write(array);
 // document.write("<h1> Selected Cities: </h1>");
 // document.write(array.slice(2));
+
+// var array = ["This","is","My","Cat"];
+// var array1 = array.join();
+// document.write("<h1> Array: </h1>");
+// document.write(array1);
+// document.write("<h1> String: </h1>" + "</br>");
+// var string = "This is My Cat";
+// document.write(string);
+
+
+// var newarray = ["KeyBoard","Mouse","Printer","Monitor"];
+// document.write("<h1> Devices: </h1>");
+// document.write(newarray + "</br>");
+// document.write("<h1> Out: </h1>");
+// document.write("Keyboard");
+// document.write("<h1> Out: </h1>");
+// document.write("Mouse");
+// document.write("<h1> Out: </h1>");
+// document.write("Printer");
+// document.write("<h1> Out: </h1>");
+// document.write("Monitor");
+
+// var lastarray = ["Keyboard","Mouse","Printer","Monitor"];
+// var firstarray = document.write(lastarray.reverse());
+// document.write("<h1> Devices: </h1>");
+// document.write("<h1> Out: </h1>");
+// document.write("Monitor");
+// document.write("<h1> Out: </h1>");
+// document.write("Printer");
+// document.write("<h1> Out: </h1>");
+// document.write("Mouse");
+// document.write("<h1> Out: </h1>");
+// document.write("Keyboard");
+
+
+// var nokiaarray = ["Apple","Motorola","Nokia","Sony","$","Haier"];
+// document.write(nokiaarray);
+
+// function favBrowser() {
+//     var mylist=document.getElementById('myList');
+//     document.getElementById('favorite').value=mylist.value;
+// }
