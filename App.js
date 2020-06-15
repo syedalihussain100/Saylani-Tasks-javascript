@@ -674,3 +674,72 @@
 //     var mylist=document.getElementById('myList');
 //     document.getElementById('favorite').value=mylist.value;
 // }
+
+
+////////////////pdf 17 to 20/////////////////////////////////
+// var newarray = [];
+// console.log(newarray);
+
+// for (var input = 1; input <= 10; input++) {
+//     document.write(input + "</br>");
+//    }
+
+// for (var input = 1; input <= 15; input++) {
+//     document.write(input + "</br>");
+//    }
+
+// var array = [1,2,3,4,5,6,7,8,9,10];
+// var array1 = array.reverse();
+// document.write(array1); 
+
+// for(var a = 0; a <= 20; a++){
+//     if(a % 2 == 0){
+//      document.write(a + "</br>");
+//     }
+// }
+
+// for(var a = 0; a <= 20; a++){
+//     if(a % 2 != 0){
+//      document.write(a + "</br>");
+//     }
+// }
+
+// var a =["cake", "applepie", "cookie", "chips", "patties"];
+// console.log(a);
+// var b = prompt("Welcome To ABC Bakery.What do you want order sir/maam");
+// switch (b) {
+//     case "cake":
+//         alert("")
+//         break;
+//         case "applepie":
+//         alert("");
+//         break;
+//         case "cookie":
+//          alert("cookie is avaible at index2 in our bakery");
+//          break;
+//          case "chips":
+//          alert("");
+//          break;
+//          case "pastry":           
+//         alert("We are sorry. pastry is not avaible in our bakery");
+//         break;
+//     default:
+//         alert("Error");
+// }
+
+// var newarray = [24,53,78,91,12];
+// console.log(newarray);
+// document.write("Array items: " + newarray + "</br>");
+// document.write("The largest number is 91");
+
+
+// var array2 = [24,53,78,91,12];
+// console.log(array2);
+// document.write("Array items: " + array2 + "</br>");
+// document.write("The smallest number is 12");
+
+//  for(var a = 5; a <= 100; a++){
+//         if(a % 5 == 0){
+//          document.write(a + "</br>");
+//         }
+//     }
