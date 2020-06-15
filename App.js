@@ -626,3 +626,9 @@
 
 // document.write(score + nums + "<br/>");
 // document.write(order + nums + "<br/>");
+
+// document.write("<h1> Cities List: </h1> </br>");
+// var array = ["Karachi","Lahore","Islamabad","Queeta","Peshawar" + "</br>"];
+// document.write(array);
+// document.write("<h1> Selected Cities: </h1>");
+// document.write(array.slice(2));
